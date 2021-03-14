@@ -1,0 +1,10 @@
+.App {
+    min-height: 100vh;
+    text-align: center;
+}
+
+.canvas-wrapper {
+    margin: 20px;
+    border: black 2px solid;
+}
+
